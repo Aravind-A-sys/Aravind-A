@@ -1,2 +1,2 @@
 # Aravind-A
-Simplify the Coder to learn/
+Simplify the Coder to learn
